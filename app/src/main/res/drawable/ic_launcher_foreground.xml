@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield Container -->
+    <path
+        android:fillColor="#1B6344"
+        android:pathData="M54,24 L78,33 C78,33 78,54 78,56 C78,71 54,84 54,84 C54,84 30,71 30,56 C30,54 30,33 30,33 L54,24 Z" />
+    
+    <!-- Shield Border Accent -->
+    <path
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,27 L75,35 C75,35 75,54 75,56 C75,69 54,81 54,81 C54,81 33,69 33,56 C33,54 33,35 33,35 L54,27 Z" />
+
+    <!-- Medical Cross -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,38 H58 V49 H69 V57 H58 V68 H50 V57 H39 V49 H50 Z" />
+
+    <!-- Pulse Line Indicator across cross -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M41,53 L47,53 L51,47 L55,59 L59,51 L62,53 L67,53" />
+</vector>

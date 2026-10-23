@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MedIt</string>
+    <string name="tagline">Unified Patient Health Records Platform</string>
+    <string name="splash_quote">One Patient. One Timeline. Secure Consent.</string>
+</resources>

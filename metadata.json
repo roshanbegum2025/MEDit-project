@@ -1,0 +1,8 @@
+{
+  "name": "MedIt",
+  "description": "Unified Patient Health Records platform with consent-based doctor access, prescription OCR, and chronological clinical history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
